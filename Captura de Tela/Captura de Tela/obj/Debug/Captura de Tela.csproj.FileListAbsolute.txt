@@ -1,0 +1,8 @@
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\obj\Debug\Captura de Tela.csprojResolveAssemblyReference.cache
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\obj\Debug\Captura_de_Tela.Form1.resources
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\obj\Debug\Captura_de_Tela.Properties.Resources.resources
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\obj\Debug\Captura de Tela.csproj.GenerateResource.Cache
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\bin\Debug\Captura de Tela.exe
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\bin\Debug\Captura de Tela.pdb
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\obj\Debug\Captura de Tela.exe
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Captura de Tela\Captura de Tela\obj\Debug\Captura de Tela.pdb
